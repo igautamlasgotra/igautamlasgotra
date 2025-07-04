@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20I'm%20Nitin%20Raina%20🚀&fontSize=35&fontColor=fff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20I'm%20Gautam%20Lasgotra%20🚀&fontSize=35&fontColor=fff&animation=fadeIn)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C3FF&lines=Full-Stack+Developer;Tech+Enthusiast;MERN+Stack+Specialist;Lifelong+Learner" alt="Typing SVG"/>
