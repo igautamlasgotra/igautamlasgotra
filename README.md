@@ -40,10 +40,11 @@ hobbies:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=igautamlasgotra&show_icons=true&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igautamlasgotra&layout=compact&theme=tokyonight" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=igautamlasgotra&theme=onedark&margin-w=15&column=7" alt="Trophies" />
+  <img src="https://streak-stats.demolab.com?user=igautamlasgotra&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
