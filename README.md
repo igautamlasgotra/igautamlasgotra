@@ -43,7 +43,7 @@ hobbies:
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=igautamlasgotra&theme=onedark&no-frame=true&margin-w=15&column=7&v=2" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=igautamlasgotra&theme=onedark&margin-w=15&column=7" alt="Trophies" />
 </p>
 
 ---
