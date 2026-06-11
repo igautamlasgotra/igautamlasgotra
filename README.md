@@ -11,12 +11,13 @@
 ```yaml
 name: Gautam Lasgotra
 location: Jammu, Jammu & Kashmir, India
-role: Full-Stack Developer Intern (MERN)
+role: Full-Stack Developer Intern (MERN), Mobile App Developer (Flutter)
 education:
   - "B.Tech Computer Science and Engineering"
 interests:
   - "Web Development"
   - "Cyber Security"
+  - "App Development"
 experience:
   - "Intern - IIT Jammu, India"
   - "Intern - CDAC Noida, India"
