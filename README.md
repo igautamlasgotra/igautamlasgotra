@@ -1,7 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20I'm%20Gautam%20Lasgotra%20&fontSize=35&fontColor=fff&animation=fadeIn)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20I'm%20Gautam%20Lasgotra%20&fontSize=35&fontColor=fff&animation=fadeIn" alt="Header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C3FF&lines=Full+Stack+Developer;Tech+Enthusiast;MERN+Stack+Explorer;Lifelong+Learner" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C3FF&lines=Full+Stack+Developer;App+Developer;Tech+Enthusiast;MERN+Stack+Explorer;Lifelong+Learner" alt="Typing SVG"/>
 </p>
 
 ---
@@ -11,7 +11,7 @@
 ```yaml
 name: Gautam Lasgotra
 location: Jammu, Jammu & Kashmir, India
-role: Full-Stack Developer Intern (MERN), Mobile App Developer (Flutter)
+role: Full-Stack Developer Intern (MERN), App Developer (Flutter)
 education:
   - "B.Tech Computer Science and Engineering"
 interests:
@@ -31,7 +31,7 @@ hobbies:
 ## 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,cpp,python,git,github,vscode" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,flutter,dart,cpp,python,git,github,vscode" alt="Tech Stack"/>
 </p>
 
 ---
@@ -67,4 +67,4 @@ hobbies:
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" alt="Footer"/>
