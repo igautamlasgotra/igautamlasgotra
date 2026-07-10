@@ -13,15 +13,15 @@ name: Gautam Lasgotra
 location: Jammu, Jammu & Kashmir, India
 role: Full-Stack Developer (MERN) | App Developer (Flutter)
 education:
-  - "B.Tech Computer Science and Engineering — SMVDU (Batch 2027)"
+  - "B.Tech Computer Science and Engineering — SMVDU (Batch 2023-2027)"
 interests:
   - "Full-Stack Web Development"
   - "Cross-Platform App Development"
   - "Cyber Security"
 experience:
-  - "Lead Developer (Intern) — LEAD, Jammu, India"
-  - "Full-Stack Web Developer Intern — IIT Jammu, India"
-  - "Ethical Hacking & Pen-Testing Intern — CDAC Noida, India"
+  - "Mobile Application Developer (Intern) — LEAD, Jammu, India"
+  - "Full-Stack Web Developer (Intern) — IIT Jammu, India"
+  - "Ethical Hacking & Pen-Testing (Intern) — CDAC Noida, India"
 currently: "Building things that ship — open to SWE / full-stack roles"
 hobbies:
   - "Gaming 🎮"
