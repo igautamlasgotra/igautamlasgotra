@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20I'm%20Gautam%20Lasgotra%20&fontSize=35&fontColor=fff&animation=fadeIn" alt="Header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C3FF&center=true&width=500&lines=Full+Stack+Developer;App+Developer;Tech+Enthusiast;MERN+Stack+Explorer;Lifelong+Learner" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00C3FF&center=true&width=500&lines=Full+Stack+Developer;Flutter+App+Developer;Tech+Enthusiast;MERN+Stack+Explorer;Lifelong+Learner" alt="Typing SVG"/>
 </p>
 
 ---
@@ -11,16 +11,18 @@
 ```yaml
 name: Gautam Lasgotra
 location: Jammu, Jammu & Kashmir, India
-role: Full-Stack Developer Intern (MERN), App Developer (Flutter)
+role: Full-Stack Developer (MERN) | App Developer (Flutter)
 education:
-  - "B.Tech Computer Science and Engineering"
+  - "B.Tech Computer Science and Engineering — SMVDU (Batch 2027)"
 interests:
-  - "Web Development"
+  - "Full-Stack Web Development"
+  - "Cross-Platform App Development"
   - "Cyber Security"
-  - "App Development"
 experience:
-  - "Intern - IIT Jammu, India"
-  - "Intern - CDAC Noida, India"
+  - "Lead Developer (Intern) — LEAD, Jammu, India"
+  - "Full-Stack Web Developer Intern — IIT Jammu, India"
+  - "Ethical Hacking & Pen-Testing Intern — CDAC Noida, India"
+currently: "Building things that ship — open to SWE / full-stack roles"
 hobbies:
   - "Gaming 🎮"
   - "Bike Riding 🏍️"
@@ -28,10 +30,26 @@ hobbies:
 
 ---
 
+## 🚀 Featured Projects
+
+**LEAD Sangam** — Meeting &amp; member-management platform &nbsp;·&nbsp; *Flutter · Firebase · Node.js*
+<br/>
+Lead developer of a platform for a ~200-member organisation, running on a single Firebase backend across a **Flutter Android app**, a **live web dashboard**, and a **WhatsApp bot on a production number**. Built ~20 serverless Cloud Functions with role-based access, Gemini-powered directory ranking, and HMAC-verified webhooks.
+<br/>
+🔗 **Live:** [lead-sangam.web.app](https://lead-sangam.web.app)
+
+**Shramik** — Local Service Marketplace (Android) &nbsp;·&nbsp; *Flutter · Dart · Firebase*
+<br/>
+Role-based app connecting customers, workers, hardware approvers, and admin, with pincode-based discovery, real-time job tracking, document-backed worker verification, and a full UPI-proof → commission → complaint lifecycle. Tested on-device against a live backend.
+<br/>
+🔗 [Repository](https://github.com/igautamlasgotra/shramik-app) &nbsp;·&nbsp; [Release APK v1.0](https://github.com/igautamlasgotra/shramik-app/releases/tag/v1.0)
+
+---
+
 ## 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,flutter,dart,cpp,python,git,github,vscode" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,html,css,bootstrap,nodejs,express,firebase,mongodb,python,cpp,git,github,postman,androidstudio,vscode" alt="Tech Stack"/>
 </p>
 
 ---
